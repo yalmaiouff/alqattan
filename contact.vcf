@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Al Qattan;Mohamed;;;
+FN:Mohamed Al Qattan
+ORG:United Beverage Company
+TITLE:Marketing Specialist
+TEL;TYPE=CELL,VOICE:+96566668485
+item1.EMAIL;TYPE=INTERNET,WORK:alqattan@unibevkw.com
+item1.X-ABLabel:Work Email
+item5.URL:ms-outlook://compose?to=alqattan%40unibevkw.com
+item5.X-ABLabel:Email in Outlook
+item2.URL;TYPE=WORK:https://www.pepsikuwait.com/
+item2.X-ABLabel:Company Webpage
+item3.URL:https://www.linkedin.com/in/mohammad-alqattan-591b2a1b7
+item3.X-ABLabel:LinkedIn
+item4.URL:https://wa.me/96566668485
+item4.X-ABLabel:WhatsApp Link
+END:VCARD
